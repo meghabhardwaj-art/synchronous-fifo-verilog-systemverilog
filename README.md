@@ -1,5 +1,5 @@
-# Synchronous-fifo-verilog-systemverilog
-# synchronous FIFO Design and Verification
+
+# Synchronous FIFO Design and Verification
 
 ## Overview
 
