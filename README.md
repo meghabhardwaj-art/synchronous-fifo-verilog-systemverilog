@@ -1,5 +1,5 @@
-# synchronous-fifo-verilog-systemverilog
-# Synchronous FIFO Design and Verification
+# Synchronous-fifo-verilog-systemverilog
+# synchronous FIFO Design and Verification
 
 ## Overview
 
@@ -34,8 +34,6 @@ A SystemVerilog testbench was developed using:
 
 - `rtl/` - RTL design
 - `tb/` - SystemVerilog testbench
-- `docs/` - Block diagrams
-- `simulation/` - Simulation results
 
 ## Tools
 
